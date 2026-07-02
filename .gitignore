@@ -23,6 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Local tooling / drafts, not part of the shipped site
+# Local tooling, not part of the shipped site
 .claude
-preview-hero.html
