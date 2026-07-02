@@ -2,7 +2,7 @@
 
 Sitio personal de una sola página construido con **React + Vite**, pensado para presentarme a reclutadores y hiring managers como evidencia de que puedo pensar y terminar un proyecto con criterio, no solo "saber código".
 
-🔗 **Demo:** _(pendiente de deploy en Vercel)_
+🔗 **Demo:** [portfolio-cristianibarra.vercel.app](https://portfolio-cristianibarra.vercel.app/)
 
 ## Stack
 
@@ -46,4 +46,4 @@ El razonamiento detrás de cada decisión (una sola página vs. rutas, por qué 
 
 ## Deploy
 
-Pensado para desplegarse en [Vercel](https://vercel.com/) (config automática para proyectos Vite/React, deploy en cada push a `main`).
+Desplegado en [Vercel](https://vercel.com/), conectado al repo de GitHub: cada `git push` a `master` dispara un deploy automático.
