@@ -1,0 +1,22 @@
+.about {
+  padding: var(--section-padding-y) 0;
+  border-top: 1px solid var(--border);
+}
+
+.about__content {
+  max-width: 720px;
+}
+
+.about h2 {
+  color: var(--peach);
+  margin-bottom: 24px;
+}
+
+.about p {
+  color: var(--text-dim);
+  margin-bottom: 18px;
+}
+
+.about p:last-child {
+  margin-bottom: 0;
+}
