@@ -25,3 +25,4 @@ dist-ssr
 
 # Local tooling, not part of the shipped site
 .claude
+CLAUDE.md
