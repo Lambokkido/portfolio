@@ -1,6 +1,6 @@
 # Portfolio — Cristian David Ibarra
 
-Sitio personal de una sola página construido con **React + Vite**, pensado para presentarme a reclutadores y hiring managers como evidencia de que puedo pensar y terminar un proyecto con criterio, no solo "saber código".
+Sitio personal de una sola página construido con **React + Vite**, pensado para presentarme a reclutadores y hiring managers.
 
 🔗 **Demo:** [portfolio-cristianibarra.vercel.app](https://portfolio-cristianibarra.vercel.app/)
 
